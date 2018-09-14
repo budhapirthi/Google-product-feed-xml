@@ -3,7 +3,7 @@ Build Google product feed xml in the Atom 1.0 format using the PHP DOMDocument c
 
 
 Below is an example of a basic Atom 1.0 document containing a single item:
-
+<pre>
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
 <title>Product Catalog feed</title>
@@ -26,3 +26,4 @@ Below is an example of a basic Atom 1.0 document containing a single item:
   <g:brand>Bish</g:brand> 
 </entry>
 </feed>
+</pre>
