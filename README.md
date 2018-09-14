@@ -1,2 +1,2 @@
 # Google-product-feed-xml
-Build product feed xml using the DOMDocument class
+Build Google product feed xml using the PHP DOMDocument class
