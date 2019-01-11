@@ -3,7 +3,7 @@
  * Class ProductFeed
  *
  * @version 1.0
- * @author  Bishal Budhapirthi <bishal.budhapirthi@gmail.com>
+ * @author  Bishal Budhapirthi <bishalbudhapirthi@gmail.com>
  * @created 2018-09-14
  */
 class ProductFeed
